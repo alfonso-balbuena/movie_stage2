@@ -87,7 +87,12 @@ public class TheMovieDbServiceWrapper {
             @Override
             public void onResponse(Call<ResponseMovies> call, Response<ResponseMovies> response) {
                 Log.d(TAG,call.request().toString());
-                listLiveData.postValue(response.body().getResults());
+                if(response.body() != null) {
+                    listLiveData.postValue(response.body().getResults());
+                } else {
+                    listLiveData.postValue(new ArrayList<>());
+                }
+
             }
 
             @Override
