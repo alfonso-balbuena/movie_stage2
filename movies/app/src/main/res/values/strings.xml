@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="action_popular">Most popular</string>
+    <string name="action_rated">Most rated</string>
+    <string name="content_description">Poster of a movie</string>
+    <string name="genres">Genres:</string>
+    <string name="popular">Most popular movies</string>
+    <string name="rated">Best rated movies</string>
+    <string name="no_connection_error">Error there is not an internet connection</string>
+    <string name="movie">Movie</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+    <string name="favorite_collection">Favorites</string>
+    <string name="originalTitleMock">Gabriel s Inferno</string>
+    <string name="content_description_favorite">Add or remove to favorite collection</string>
+    <string name="titleMock">Gabriel s Inferno</string>
+    <string name="authorMock">MohamedElsharkawy</string>
+    <string name="favorite">Favorites</string>
+    <string name="content_description_play">Play video</string>
+    <string name="overviewMock">An intriguing and sinful exploration of seduction, forbidden love, and redemption, Gabriel s Inferno is a captivating and wildly passionate tale of one man s escape from his own personal hell as he tries to earn the impossible--forgiveness and love.</string>
+    <string name="reviewMock">The Dilwale Dulhania Le Jayenge is a film considered by most to be one of the greatest ever made. From The American Film Institute to as voted by users on the Internet Movie Database (IMDB) it is consider to be one of the best.</string>
+</resources>
