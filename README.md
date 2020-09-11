@@ -2,7 +2,7 @@
 
 Third project for the Android developer Nanodegree
 
-In the file TheMovieDbServiceWrapper put your api key from https://www.themoviedb.org/ in the API_KEY constant
+In the file **services/TheMovieDbServiceWrapper.java** put your api key from https://www.themoviedb.org/ in the **API_KEY** constant
 
 ## Screenshots
 
